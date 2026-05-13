@@ -1,0 +1,12 @@
+{
+  "version": "0.0.1",
+  "configurations": [
+    {
+      "name": "글로벌스탁론",
+      "runtimeExecutable": "npx",
+      "runtimeArgs": ["http-server", ".", "--cors"],
+      "port": 8888,
+      "autoPort": true
+    }
+  ]
+}
