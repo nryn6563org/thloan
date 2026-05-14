@@ -51042,7 +51042,7 @@ button.swiper-pagination-bullet {
 }
 
 #section3 .contents2 .col_inner2 {
-    background-image: url("/img/main/box.png?");
+    background-image: url("../img/main/box.png?");
     background-size: contain;
     width: 100%;
     height: auto;
@@ -51056,7 +51056,7 @@ button.swiper-pagination-bullet {
 #section3 .contents2 .col_inner2 .color_box {
     width: 22.22%;
     aspect-ratio: 1;
-    background-image: url("/img/main/color_box.png");
+    background-image: url("../img/main/color_box.png");
     background-size: cover;
     position: absolute;
     top: 15px;
@@ -51166,7 +51166,7 @@ button.swiper-pagination-bullet {
 }
 
 #section4 .contact_wrap {
-    background-image: url("/img/main/se4_back.png?");
+    background-image: url("../img/main/se4_back.png?");
     background-size: cover;
     padding: 50px;
     border-radius: 30px;
@@ -51285,7 +51285,7 @@ button.swiper-pagination-bullet {
     aspect-ratio: 8.1818181818;
     height: auto;
     border-radius: 30px;
-    background-image: url("/img/sub/kakao_back.jpg");
+    background-image: url("../img/sub/kakao_back.jpg");
     background-size: cover;
     padding: 30px 172px;
     box-shadow: 0 0 20px 0 rgba(0, 0, 0, 0.1)
@@ -52187,7 +52187,7 @@ button.swiper-pagination-bullet {
     display: inline-block;
     width: 20px;
     height: 20px;
-    background-image: url("/img/main/slide_dot.svg");
+    background-image: url("../img/main/slide_dot.svg");
     background-size: cover
 }
 
@@ -52330,7 +52330,7 @@ button.swiper-pagination-bullet {
 /* Original file: files/cache/assets/compiled/9e358396971b623be2fc230cf55f7bf37875571c.widget.scss.min.css */
 .bh_insert_widget_newmenu {
     padding: 0;
-    background-image: url("/img/main/slideinsert.png");
+    background-image: url("../img/main/slideinsert.png");
     background-size: cover;
     padding: 30px 0
 }
@@ -52718,7 +52718,7 @@ button.swiper-pagination-bullet {
 }
 
 .bh_insert_widget_newmenu .agreement .confirm input[type="checkbox"]:checked::after {
-    background-image: url("/img/check-fill.svg")
+    background-image: url("../img/check-fill.svg")
 }
 
 .bh_insert_widget_newmenu .agreement .confirm label {
