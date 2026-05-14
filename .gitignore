@@ -292,6 +292,10 @@ $RECYCLE.BIN/
 # comment the following lines
 !.yarn/cache
 
+.claude/*
+/.claude
+.claude/
+
 # and uncomment the following lines
 # .pnp.*
 
